@@ -1,0 +1,21 @@
+{
+  "name": "callbag-to-iterable",
+  "version": "1.0.0",
+  "description": "Convert a synchronous pullable callbag source to an Iterable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staltz/callbag-to-iterable.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "staltz.com",
+  "license": "MIT",
+  "keywords": [
+    "callbag"
+  ],
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
